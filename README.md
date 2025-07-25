@@ -36,6 +36,3 @@ python manage.py migrate
 python manage.py runserver
 ```
 
-## Where to find Me
-
-Like Me on [Linkedin](https://www.linkedin.com/in/basant-singh-dobal-7353a2186/)
